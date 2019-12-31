@@ -1,2 +1,2 @@
 # CV
-Mt Personal Website with contact information and resume
+My Personal Website with contact information and resume
